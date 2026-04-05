@@ -203,9 +203,7 @@ INTERVAL_MINUTES = 1             # demo interval (minutes)
 
 ## 👤 Author
 
-**[Your Name]** — AI & Robotics Student
-📧 email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/username) · [GitHub](https://github.com/username)
+**Nata** — AI & Robotics Student
 
 ---
 
