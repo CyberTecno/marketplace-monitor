@@ -1,0 +1,16 @@
+timestamp,keyword,id_produk,nama_produk,harga,harga_asli,diskon_persen,stok_status,rating,jumlah_review,nama_toko,kota_toko,url_produk
+2026-04-05 15:59:29,vitamin c,vc001,Blackmores Vitamin C 1000mg 60 Tablet,85000,95000,10,tersedia,4.8,1240,HealthyStore,Jakarta,https://tokopedia.com/product/vc001
+2026-04-05 15:59:29,vitamin c,vc002,Now Foods Vitamin C 1000mg with Rose Hips,120000,120000,0,tersedia,4.7,890,NutritionHub,Surabaya,https://tokopedia.com/product/vc002
+2026-04-05 15:59:29,vitamin c,vc003,Vitacimin Vitamin C 500mg Orange 10 Tablet,12000,15000,20,tersedia,4.9,5600,ApotekSehat,Bandung,https://tokopedia.com/product/vc003
+2026-04-05 15:59:29,vitamin c,vc004,Nature's Plus Vitamin C 1000mg Sustained Release,210000,250000,16,tersedia,4.6,320,NaturalLife,Bali,https://tokopedia.com/product/vc004
+2026-04-05 15:59:29,vitamin c,vc005,Enervon C Multivitamin Tablet 30s,45000,45000,0,tersedia,4.5,2100,MediStore,Medan,https://tokopedia.com/product/vc005
+2026-04-05 15:59:29,herbal supplement,hs001,Nilaya Temulawak Herbal Extract 60 Kapsul,75000,90000,17,tersedia,4.9,430,NilayaOfficial,Bali,https://tokopedia.com/product/hs001
+2026-04-05 15:59:29,herbal supplement,hs002,Sido Muncul Kunyit Asam 12 Sachet,18000,20000,10,tersedia,4.7,3200,HerbalNusantara,Semarang,https://tokopedia.com/product/hs002
+2026-04-05 15:59:29,herbal supplement,hs003,Jahe Merah Kapsul Organik 500mg 60 Kapsul,55000,55000,0,tersedia,4.6,780,OrganicLife,Yogyakarta,https://tokopedia.com/product/hs003
+2026-04-05 15:59:29,herbal supplement,hs004,Spirulina Tablet 500mg Organic 100 Tablet,130000,160000,19,tersedia,4.8,560,GreenHealth,Bali,https://tokopedia.com/product/hs004
+2026-04-05 15:59:29,herbal supplement,hs005,Habbatussauda Black Seed Oil 100 Kapsul,95000,95000,0,tersedia,4.5,1890,HerbalMart,Jakarta,https://tokopedia.com/product/hs005
+2026-04-05 15:59:29,vegan protein,vp001,Orgain Organic Protein Powder Vanilla 920g,420000,480000,13,tersedia,4.7,670,VeganStore,Jakarta,https://tokopedia.com/product/vp001
+2026-04-05 15:59:29,vegan protein,vp002,Sunwarrior Classic Protein Chocolate 750g,580000,580000,0,habis,4.8,340,NutritionHub,Surabaya,https://tokopedia.com/product/vp002
+2026-04-05 15:59:29,vegan protein,vp003,Nilaya Pea Protein Isolate Natural 500g,185000,220000,16,tersedia,4.9,210,NilayaOfficial,Bali,https://tokopedia.com/product/vp003
+2026-04-05 15:59:29,vegan protein,vp004,Garden of Life Raw Organic Protein 560g,650000,720000,10,tersedia,4.6,480,OrganicLife,Jakarta,https://tokopedia.com/product/vp004
+2026-04-05 15:59:29,vegan protein,vp005,MyProtein Soy Protein Isolate Unflavored 1kg,310000,310000,0,tersedia,4.4,920,FitnessMart,Bandung,https://tokopedia.com/product/vp005
